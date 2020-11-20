@@ -1,5 +1,5 @@
 #Demo heroku: https://frontend-instag.herokuapp.com/ 
-##Link Github Backend: https://github.com/nta17071997/INSTA-BACKEND-CODERSX
+#1. Link Github Backend: https://github.com/nta17071997/INSTA-BACKEND-CODERSX
 
 # Getting Started with Create React App
 
